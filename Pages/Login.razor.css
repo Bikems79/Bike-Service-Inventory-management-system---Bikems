@@ -1,0 +1,29 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+.login-form {
+    background: #fff;
+    width: 750px;
+    margin: 65px auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    box-shadow: 0 2px 25px rgba(0, 0, 0, 0.2);
+}
+
+.content {
+    padding: 30px;
+    text-align: center;
+}
+
+.input-field {
+    padding: 12px 5px;
+}
+
+
